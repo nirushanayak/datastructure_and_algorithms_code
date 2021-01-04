@@ -1,0 +1,129 @@
+from _collections import deque
+from collections import defaultdict
+
+class Node:
+    def __init__(self,data):
+        self.data=data
+        self.left=None
+        self.right=None
+
+def TreeConstruction(data,n):
+    Queue=[]
+    if data[0]!=None:
+        head = Node(data[0])
+        Queue.append(head)
+    i=1
+    while i<n and Queue:
+        prevNode= Queue.pop(0)
+        #left
+        if data[i] is not None:
+            currNode = Node(data[i])
+            prevNode.left = currNode
+            Queue.append(currNode)
+        i = i+1
+        if( i >= n):
+            break
+        if data[i] is not None:
+            currNode = Node(data[i])
+            prevNode.right = currNode
+            Queue.append(currNode)
+        i = i+1
+    return head
+
+def preOrderTraversal(root):
+    if(root):
+        print(root.data, end=' ')
+        preOrderTraversal(root.left)
+        preOrderTraversal(root.right)
+
+def SpiralTraversal(root):
+    s1 = [] # Right-Left
+    s2 = [] # Left-Right
+    if root.data :
+        s1.append(root)
+    while s1 or s2:
+        while s1:
+            node = s1.pop()
+            print(node.data, end=' ')
+            if node.right:
+                s2.append(node.right)
+            if node.left:
+                s2.append(node.left)
+        while s2:
+            node = s2.pop()
+            print(node.data, end=' ')
+            if node.left:
+                s1.append(node.left)
+            if node.right:
+                s1.append(node.right)
+
+
+def VerticalTraversal(root):
+    Result = defaultdict(list)
+    Queue = []
+    key = 0
+    if root:
+        Queue.append((root,key))
+    while Queue:
+        Node,key = Queue.pop(0)
+        Result[key].append(Node.data)
+        if Node.left:
+            Queue.append((Node.left, key+1))
+        if Node.right:
+            Queue.append((Node.right , key-1))
+    Result = dict(sorted(Result.items(), reverse=True))
+    result=[]
+    for valList in Result.values():
+        for val in valList:
+            result.append(val)
+    return result
+
+
+
+def identical(root1,root2):
+    global isMirror
+    if (root1 or root2) :
+        if (root1 and root2) and (root1.data == root2.data):
+            identical(root1.left, root2.left)
+            identical(root1.right, root2.right)
+        else:
+            isMirror = False
+
+
+data = [1,2,3,4]
+
+root = TreeConstruction(data,4)
+
+print("pre order tranversal is:")
+preOrderTraversal(root)
+
+print()
+print("spiral order tanversal is:")
+SpiralTraversal(root)
+
+data1=[1,2,3,4]
+root2 = TreeConstruction(data1,4)
+global isMirror
+isMirror = True
+res=identical(root,root2)
+print(res)
+print(isMirror)
+
+
+data=[1,2,3,4,5,None,6]
+root = TreeConstruction(data,7)
+result=VerticalTraversal(root)
+print(result)
+
+
+
+
+
+
+
+
+
+
+
+
+

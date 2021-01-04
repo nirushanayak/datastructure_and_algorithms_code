@@ -1,0 +1,31 @@
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+from queue import LifoQueue
+
+# Complete the isBalanced function below.
+def isBalanced(s):
+    open_bra=['{','(','[']
+    closed_bra=['}',')',']']
+
+    stack = LifoQueue()
+    for i in range(len(s)):
+        if s[i] in open_bra:
+            stack.put(s[i])
+        elif s[i] in closed_bra:
+            top=stack.get()
+            if(open_bra.index(top) != closed_bra.index(s[i])):
+                return "NO"
+    if stack.empty():
+        return "YES"
+    else:
+        return "NO"
+
+
+
+if __name__ == '__main__':
+   result=isBalanced('[{}]')

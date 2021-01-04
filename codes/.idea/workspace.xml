@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29266be8-10ad-4078-afc6-ad40ef2419cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Kubernetes_Project/home/project/guestbook" />
+  </component>
+  <component name="ProjectId" id="1dAxJoRLYzG8nEa6i6eBWbZGKIf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RunManager" selected="Python.abc">
+    <configuration name="Candy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Candy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Fractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November_cook_off_codechef" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November_cook_off_codechef/Fractions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="abc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/abc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ma_rectangle_in_histogram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ma_rectangle_in_histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.abc" />
+      <item itemvalue="Python.Candy" />
+      <item itemvalue="Python.Fractions" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.ma_rectangle_in_histogram" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.abc" />
+        <item itemvalue="Python.ma_rectangle_in_histogram" />
+        <item itemvalue="Python.Fractions" />
+        <item itemvalue="Python.Candy" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29266be8-10ad-4078-afc6-ad40ef2419cc" name="Default Changelist" comment="" />
+      <created>1591881629651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591881629651</updated>
+      <workItem from="1591881631133" duration="2623000" />
+      <workItem from="1591891080228" duration="1000" />
+      <workItem from="1592541288715" duration="11108000" />
+      <workItem from="1592749645203" duration="1803000" />
+      <workItem from="1593270728194" duration="909000" />
+      <workItem from="1593286519853" duration="34000" />
+      <workItem from="1593787430770" duration="3891000" />
+      <workItem from="1593850087591" duration="1499000" />
+      <workItem from="1594054450528" duration="1451000" />
+      <workItem from="1594226809423" duration="322000" />
+      <workItem from="1595165529782" duration="4713000" />
+      <workItem from="1595268337600" duration="2770000" />
+      <workItem from="1595350263268" duration="3294000" />
+      <workItem from="1595523170564" duration="1015000" />
+      <workItem from="1595769948640" duration="4030000" />
+      <workItem from="1595791903043" duration="4065000" />
+      <workItem from="1595866335652" duration="2316000" />
+      <workItem from="1595914586435" duration="1077000" />
+      <workItem from="1595955446169" duration="72000" />
+      <workItem from="1596114434976" duration="2284000" />
+      <workItem from="1596122265508" duration="3000" />
+      <workItem from="1596214709603" duration="2522000" />
+      <workItem from="1596265974148" duration="1308000" />
+      <workItem from="1596279072816" duration="2077000" />
+      <workItem from="1596516035577" duration="954000" />
+      <workItem from="1596740167713" duration="119000" />
+      <workItem from="1597082931814" duration="1483000" />
+      <workItem from="1597298117122" duration="3856000" />
+      <workItem from="1598170052646" duration="714000" />
+      <workItem from="1598248117231" duration="29000" />
+      <workItem from="1598249330641" duration="755000" />
+      <workItem from="1598272642219" duration="1353000" />
+      <workItem from="1598284965083" duration="4297000" />
+      <workItem from="1598603240388" duration="1660000" />
+      <workItem from="1598613037846" duration="7846000" />
+      <workItem from="1598720106624" duration="6209000" />
+      <workItem from="1598936964295" duration="582000" />
+      <workItem from="1600062864619" duration="2660000" />
+      <workItem from="1600155452139" duration="25000" />
+      <workItem from="1601485014229" duration="2361000" />
+      <workItem from="1601641368245" duration="2499000" />
+      <workItem from="1601717088681" duration="1785000" />
+      <workItem from="1601723224685" duration="574000" />
+      <workItem from="1601725491688" duration="5502000" />
+      <workItem from="1601824531437" duration="188000" />
+      <workItem from="1601915385910" duration="374000" />
+      <workItem from="1602519347417" duration="403000" />
+      <workItem from="1603810806328" duration="627000" />
+      <workItem from="1603815552544" duration="788000" />
+      <workItem from="1603821649943" duration="652000" />
+      <workItem from="1604129229767" duration="1873000" />
+      <workItem from="1604409940219" duration="279000" />
+      <workItem from="1605585940446" duration="979000" />
+      <workItem from="1605613181285" duration="517000" />
+      <workItem from="1605614766438" duration="38000" />
+      <workItem from="1605635585693" duration="304000" />
+      <workItem from="1605637820541" duration="199000" />
+      <workItem from="1605723906967" duration="189000" />
+      <workItem from="1606293094368" duration="1561000" />
+      <workItem from="1606305976723" duration="810000" />
+      <workItem from="1606626915014" duration="2029000" />
+      <workItem from="1607256539039" duration="2066000" />
+      <workItem from="1607409958448" duration="310000" />
+      <workItem from="1607750143894" duration="1783000" />
+      <workItem from="1607794948151" duration="523000" />
+      <workItem from="1608228853543" duration="350000" />
+      <workItem from="1608449824305" duration="2512000" />
+      <workItem from="1608469596609" duration="238000" />
+      <workItem from="1608530528274" duration="101000" />
+      <workItem from="1609327220783" duration="17000" />
+      <workItem from="1609437691184" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608450949107">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.958@0.23.1680.958" timestamp="1608450949107" />
+    <state x="1158" y="339" key="#xdebugger.evaluate" timestamp="1601791758449">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="1158" y="339" key="#xdebugger.evaluate/0.23.1680.960@0.23.1680.960" timestamp="1601791758449" />
+    <state width="1638" height="264" key="GridCell.Tab.0.bottom" timestamp="1608530603314">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1608530603314" />
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1607755954688" />
+    <state width="1638" height="266" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1608230844274" />
+    <state width="1638" height="268" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606307863213" />
+    <state width="1638" height="210" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1601655546665" />
+    <state width="1638" height="264" key="GridCell.Tab.0.center" timestamp="1608530603314">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1608530603314" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1607755954687" />
+    <state width="1638" height="266" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1608230844273" />
+    <state width="1638" height="268" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1606307863212" />
+    <state width="1638" height="210" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1601655546664" />
+    <state width="1638" height="264" key="GridCell.Tab.0.left" timestamp="1608530603313">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1608530603313" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1607755954687" />
+    <state width="1638" height="266" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1608230844273" />
+    <state width="1638" height="268" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1606307863212" />
+    <state width="1638" height="210" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1601655546663" />
+    <state width="1638" height="264" key="GridCell.Tab.0.right" timestamp="1608530603314">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="264" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1608530603314" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1607755954688" />
+    <state width="1638" height="266" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1608230844274" />
+    <state width="1638" height="268" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1606307863213" />
+    <state width="1638" height="210" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1601655546664" />
+    <state width="1638" height="236" key="GridCell.Tab.1.bottom" timestamp="1608452636192">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="236" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1608452636192" />
+    <state width="1638" height="236" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1607269821064" />
+    <state width="1638" height="238" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1604132383669" />
+    <state width="1638" height="236" key="GridCell.Tab.1.center" timestamp="1608452636191">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="236" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1608452636191" />
+    <state width="1638" height="236" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1607269821063" />
+    <state width="1638" height="238" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1604132383669" />
+    <state width="1638" height="236" key="GridCell.Tab.1.left" timestamp="1608452636191">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="236" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1608452636191" />
+    <state width="1638" height="236" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1607269821063" />
+    <state width="1638" height="238" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1604132383669" />
+    <state width="1638" height="236" key="GridCell.Tab.1.right" timestamp="1608452636192">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state width="1638" height="236" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1608452636192" />
+    <state width="1638" height="236" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1607269821063" />
+    <state width="1638" height="238" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1604132383669" />
+    <state x="349" y="141" key="SettingsEditor" timestamp="1608450546351">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="349" y="141" key="SettingsEditor/0.23.1680.958@0.23.1680.958" timestamp="1608450546351" />
+    <state x="496" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1609327221131">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="496" y="339" key="com.intellij.ide.util.TipDialog/0.23.1680.958@0.23.1680.958" timestamp="1608530529009" />
+    <state x="496" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1609327221131" />
+    <state x="496" y="340" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1608228853907" />
+    <state x="496" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1605637821052" />
+    <state x="496" y="342" key="com.intellij.ide.util.TipDialog/0.23.1680.965@0.23.1680.965" timestamp="1601915586032" />
+    <state x="496" y="342" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1601641369145" />
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup" timestamp="1606629284321">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="505" y="237" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1606629284321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/merging_linked_list.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/balanced_bracket</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/balanced_bracket</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/balanced_bracket</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/waiter_hackerRank.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/waiter_hackerRank.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/waiter_hackerRank.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/poisonous_plant.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/game_of_two_stacks.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shortest_path_and_bellman_ford_graph_algo.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/prims_algo_graph.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Max-contiguous_subarray.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tapping_rain_water.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tapping_rain_water.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vaccine.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tree_Binary_Search_tree.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November_cook_off_codechef/Gasoline.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/November_cook_off_codechef/Gasoline.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Candy.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/codes$Dijikstras_algo.coverage" NAME="Dijikstras_algo Coverage Results" MODIFIED="1595271892314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Tank_Problem_interviwebit.coverage" NAME="Tank_Problem_interviwebit Coverage Results" MODIFIED="1600065411105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Strings_Text_justification.coverage" NAME="Strings-Text_justification Coverage Results" MODIFIED="1604130986631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Fractions.coverage" NAME="Fractions Coverage Results" MODIFIED="1607752108822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/November_cook_off_codechef" />
+    <SUITE FILE_PATH="coverage/codes$test.coverage" NAME="test Coverage Results" MODIFIED="1608450556761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$sub_array_with_given_sum.coverage" NAME="sub_array_with_given_sum Coverage Results" MODIFIED="1596217036562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Candy.coverage" NAME="Candy Coverage Results" MODIFIED="1608450849035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Max_contiguous_subarray.coverage" NAME="Max-contiguous_subarray Coverage Results" MODIFIED="1596279546600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$linkedList.coverage" NAME="linkedList Coverage Results" MODIFIED="1592639781810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$waiter_hackerRank.coverage" NAME="waiter_hackerRank Coverage Results" MODIFIED="1593793760641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Articulation_point_and_edges_DFS.coverage" NAME="Articulation_point_and_edges_DFS Coverage Results" MODIFIED="1595793661154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$balanced_bracket.coverage" NAME="balanced_bracket Coverage Results" MODIFIED="1593271534351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$nth_node_in_linked_list.coverage" NAME="nth_node_in_linked_list Coverage Results" MODIFIED="1592550672111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$hacker_earth_counting_permuttions.coverage" NAME="hacker_earth_counting_permuttions Coverage Results" MODIFIED="1598726737017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$2d_array.coverage" NAME="2d-array Coverage Results" MODIFIED="1603815912199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$tree_BinaryTree_traversal.coverage" NAME="tree_BinaryTree_traversal Coverage Results" MODIFIED="1598642464983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$array_sum.coverage" NAME="array_sum Coverage Results" MODIFIED="1608228955855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$regular_exp.coverage" NAME="regular_exp Coverage Results" MODIFIED="1606306901499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$reverse_array_in_groups.coverage" NAME="reverse_array_in_groups Coverage Results" MODIFIED="1596268157897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Vaccine.coverage" NAME="Vaccine Coverage Results" MODIFIED="1596516818571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$lists_merge_k_sorted_list.coverage" NAME="lists_merge_k_sorted_list Coverage Results" MODIFIED="1605586574199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$graph_representation.coverage" NAME="graph_representation Coverage Results" MODIFIED="1595181669271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$longest_palindrome_in_substring.coverage" NAME="longest_palindrome_in_substring Coverage Results" MODIFIED="1597300430263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$game_of_two_stacks.coverage" NAME="game_of_two_stacks Coverage Results" MODIFIED="1593858699330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1601803977528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Gasoline.coverage" NAME="Gasoline Coverage Results" MODIFIED="1607268917717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/November_cook_off_codechef" />
+    <SUITE FILE_PATH="coverage/codes$merging_linked_list.coverage" NAME="merging_linked_list Coverage Results" MODIFIED="1592649274820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$prims_algo_graph.coverage" NAME="prims_algo_graph Coverage Results" MODIFIED="1595358217050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Tree_Binary_Search_tree.coverage" NAME="Tree_Binary_Search_tree Coverage Results" MODIFIED="1598635353459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$abc.coverage" NAME="abc Coverage Results" MODIFIED="1608530593651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$news.coverage" NAME="news Coverage Results" MODIFIED="1603823452409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NEWSTON" />
+    <SUITE FILE_PATH="coverage/codes$Tree_max_diff_between_node_and_ansistor.coverage" NAME="Tree_max_diff_between_node_and_ansistor Coverage Results" MODIFIED="1598937531967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$stock_buy_and_sell.coverage" NAME="stock_buy_and_sell Coverage Results" MODIFIED="1597306197714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$poisonous_plant.coverage" NAME="poisonous_plant Coverage Results" MODIFIED="1593850550636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$shortest_path_and_bellman_ford_graph_algo.coverage" NAME="shortest_path_and_bellman_ford_graph_algo Coverage Results" MODIFIED="1595353420716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Tapping_rain_water.coverage" NAME="Tapping_rain_water Coverage Results" MODIFIED="1596280496949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$queue_window.coverage" NAME="queue_window Coverage Results" MODIFIED="1594055700062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Nesting_Depths_code_jam_2000.coverage" NAME="Nesting_Depths_code_jam_2000 Coverage Results" MODIFIED="1606628883271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$nth_node_from_last_in_linked_list.coverage" NAME="nth_node_from_last_in_linked_list Coverage Results" MODIFIED="1592750968448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$Trees_least_common_ansistor.coverage" NAME="Trees_least_common_ansistor Coverage Results" MODIFIED="1601720010941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$topological_sort.coverage" NAME="topological_sort Coverage Results" MODIFIED="1595917484156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codes$ma_rectangle_in_histogram.coverage" NAME="ma_rectangle_in_histogram Coverage Results" MODIFIED="1608450956048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
